@@ -1,6 +1,6 @@
-# 💻 Hola, soy DarkorZ! 
+# 💻 Hola, soy John Serrano! 
 
-- 🎓 Estudiante de Septimo Semestre en Ingenieria en Ciencias de la COmputacion.
+- 🎓 Estudiante de Septimo Semestre en Ingenieria en Ciencias de la Computacion.
 - 🌱 Actualmente especializándome en Cloud Computing (AWS), Python con IA, Docker Compose y sistemas distribuidos
 - 🔧 Apasionado por los microservicios, aplicaciones web, automatización y optimización de infraestructura TI
 - 🔭 A lo largo de mi carrera, he trabajado en proyectos como:
