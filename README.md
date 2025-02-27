@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DarkorZ/SpinelBossBattle/main/SpinelBossBattle.gif" width="100%" alt="Spinel Boss Battle Banner">
+<img src="https://github.com/DarkorZ/SpinelBossBattle/blob/main/SpinelBossBattle.gif?raw=true" width="100%" alt="Spinel Boss Battle Banner">
 
 # 💻 Hola, soy John Serrano! 
 
