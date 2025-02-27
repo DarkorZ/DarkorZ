@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/DarkorZ/SpinelBossBattle/main/SpinelBossBattle.gif" width="100%" alt="Spinel Boss Battle Banner">
+
 # 💻 Hola, soy John Serrano! 
 
 - 🎓 Estudiante de Septimo Semestre en Ingenieria en Ciencias de la Computacion.
