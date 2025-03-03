@@ -18,7 +18,7 @@
 
 ## 📊 Estadísticas de GitHub:
 ![DarkorZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkorZ&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkorZ&layout=compact&langs_count=6&hide=css,handlebars,matlab,&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkorZ&layout=compact&langs_count=6&hide=css,matlab,&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DarkorZ&theme=radical)
 
 
