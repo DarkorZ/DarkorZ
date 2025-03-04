@@ -17,9 +17,16 @@
   🔗 [Spinel Boss Battle v2](https://www.greenfoot.org/scenarios/31283)
 
 ## 📊 Estadísticas de GitHub:
-![DarkorZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkorZ&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkorZ&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkorZ&layout=compact&langs_count=6&hide=css,matlab,&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=DarkorZ&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DarkorZ&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkorZ&theme=react-dark)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 
 
 
