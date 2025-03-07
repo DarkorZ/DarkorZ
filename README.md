@@ -4,7 +4,7 @@
 
 - 🎓 Estudiante de Septimo Semestre en Ingenieria en Ciencias de la Computacion.
 - 🌱 Actualmente especializándome en Cloud Computing (AWS), Python con IA, Docker Compose y sistemas distribuidos
-- 🔧 Apasionado por los microservicios, aplicaciones web, automatización y optimización de infraestructura TI
+- 🔧 Apasionado por los microservicios, aplicaciones web, automatización, optimización de infraestructura TI y manejo de Linux.
 - 🔭 A lo largo de mi carrera, he trabajado en proyectos como:
 - - 🎮 [CodeCraft](#) Sitio web para enseñar a niños a programar mediante juegos, desarrollado con Angular (pendiente mudanza a NODE.js)
   - ✈️ [Proyecto_Comunitario](#) Aplicación web "Ecoturismo", transfiriendo información y código a una entidad pública
