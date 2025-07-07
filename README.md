@@ -3,7 +3,7 @@
 # 💻 Hola, soy John Serrano! 
 
 - 🎓 Estudiante de Septimo Semestre en Ingenieria en Ciencias de la Computacion.
-- 🌱 Actualmente especializándome en Cloud Computing (AWS), Python con IA, Docker Compose y sistemas distribuidos
+- 🌱 Actualmente especializándome en Cloud Computing (AWS), Automatizacion con Python, Procesos estocasticos y modelos de prediccion y Sistemas distribuidos
 - 🔧 Apasionado por los microservicios, aplicaciones web, automatización, optimización de infraestructura TI y manejo de Linux.
 - 🔭 A lo largo de mi carrera, he trabajado en proyectos como:
 - - 🎮 [CodeCraft](#) Sitio web para enseñar a niños a programar mediante juegos, desarrollado con Angular (pendiente mudanza a NODE.js)
