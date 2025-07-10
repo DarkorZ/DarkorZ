@@ -6,7 +6,8 @@
 - 🌱 Actualmente especializándome en Cloud Computing (AWS), Automatizacion con Python, Procesos estocasticos y modelos de prediccion y Sistemas distribuidos
 - 🔧 Apasionado por los microservicios, aplicaciones web, automatización, optimización de infraestructura TI y manejo de Linux.
 - 🔭 A lo largo de mi carrera, he trabajado en proyectos como:
-- - 🎮 [CodeCraft](#) Sitio web para enseñar a niños a programar mediante juegos, desarrollado con Angular (pendiente mudanza a NODE.js)
+- - 💻 [Captura-Pokemon](#) Simulador de captura de Pokémon desarrollado en Python, que aplica modelos estocásticos y estadísticos para predecir probabilidades, consumiendo datos en tiempo real desde la PokeAPI (Proyecto en desarrollo)
+  - 🎮 [CodeCraft](#) Sitio web para enseñar a niños a programar mediante juegos, desarrollado con Angular (pendiente mudanza a NODE.js)
   - ✈️ [Proyecto_Comunitario](#) Aplicación web "Ecoturismo", transfiriendo información y código a una entidad pública
   - ✈️ [Vinculacion_SV_Emprendimientos](#) Aplicación web "Emprendimientos", comprensión, corrección y manejo de errores para su correcta implementación
   - 📦 [MonitoreoDePedidos_Aplicacion_Distribuida](#) Desarrollo y despliegue de aplicaciones utilizando Docker Compose
